@@ -16,7 +16,7 @@ This node can read the contents of the valid CSV file and replace the contents o
 ![image](https://github.com/user-attachments/assets/2a116444-dd99-4233-ab11-261423ee11a1)
 
 
-This node will allow us to save the contents of a valid DataTable variable to the specified path, and if there is no file on that path, a new CSV file will be generated
+This node will allow us to save the contents of a valid DataTable variable to the specified path
 
 
 ![image](https://github.com/user-attachments/assets/1dcff846-9b17-4aef-997b-c3cf155d0aa2)
@@ -47,7 +47,7 @@ This node can save our content to the specified path, if the file is not there, 
 ![image](https://github.com/user-attachments/assets/2a116444-dd99-4233-ab11-261423ee11a1)
 
 
-这个节点可以让我们把有效的DataTable变量中的内容保存至指定路径，如果该路径没有文件，那么会生成一个新的CSV文件
+这个节点可以让我们把有效的DataTable变量中的内容保存至指定路径
 
 
 ![image](https://github.com/user-attachments/assets/1dcff846-9b17-4aef-997b-c3cf155d0aa2)

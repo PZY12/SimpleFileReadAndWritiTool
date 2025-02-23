@@ -1,9 +1,9 @@
 # SimpleFileReadAndWritiTool
 English Document
 
-This is a plug-in that can easily read and write or create files, and the current and tested compatible formats are CSV, txt, cfg Any version from 5.0 to 
+This is a plug-in that can easily read and write or create files, and the current and tested compatible formats are CSV, txt, cfg 
 
-5.5 is theoretically supported
+Any version from 5.0 to 5.5 is theoretically supported
 
 Paths Support relative paths and system path
 

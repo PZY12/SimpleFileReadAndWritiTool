@@ -1,9 +1,15 @@
 # SimpleFileReadAndWritiTool
-这是一款可以简单读写或创建文件的插件，目前以及测试兼容的格式为CSV、txt、cfg
+这是一款可以简单读写或创建文件的插件，目前以及测试兼容的格式为CSV、txt、cfg 
+
 理论上支持5.0至5.5的任意版本
 
-This is a plug-in that can easily read and write or create files, and the current and tested compatible formats are CSV, txt, cfg
-Any version from 5.0 to 5.5 is theoretically supported
+路径支持相对路径以及系统路径
+
+This is a plug-in that can easily read and write or create files, and the current and tested compatible formats are CSV, txt, cfg Any version from 5.0 to 
+
+5.5 is theoretically supported
+
+Paths Support relative paths and system path
 
 ![image](https://github.com/user-attachments/assets/560d9966-7a4e-4ef3-b56e-c7a3e09d4e11)
 

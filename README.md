@@ -7,24 +7,32 @@ Any version from 5.0 to 5.5 is theoretically supported
 
 Paths Support relative paths and system path
 
-![image](https://github.com/user-attachments/assets/560d9966-7a4e-4ef3-b56e-c7a3e09d4e11)
+![image](https://github.com/user-attachments/assets/7ad51941-24db-4575-a98c-f83771ce7d5e)
+
 
 
 This node can read the contents of the valid CSV file and replace the contents of the DataTable with the contents of the CSV that we want to read
 
 
-![image](https://github.com/user-attachments/assets/2a116444-dd99-4233-ab11-261423ee11a1)
+![image](https://github.com/user-attachments/assets/b11a2276-f97a-4b51-9bd2-0f659b162d8b)
 
 
 This node will allow us to save the contents of a valid DataTable variable to the specified path
 
 
-![image](https://github.com/user-attachments/assets/1dcff846-9b17-4aef-997b-c3cf155d0aa2)
+![image](https://github.com/user-attachments/assets/00bf413d-30d6-42b0-845b-e68a16ca6b64)
+
+
+This node can create a new CSV file in the specified path
+
+
+![image](https://github.com/user-attachments/assets/dc3c5085-16b6-4f0c-b45d-0ea709f6e0e8)
 
 This node can get the contents of the file in the specified path
 
 
-![image](https://github.com/user-attachments/assets/d0e19516-a2ca-4d24-8b55-61c1ce2a5342)
+![image](https://github.com/user-attachments/assets/8b06510e-00d3-45b1-9964-9bbf3a4e671d)
+
 
 This node can save our content to the specified path, if the file is not there, then a new file is created to the specified location
 
@@ -38,24 +46,31 @@ This node can save our content to the specified path, if the file is not there, 
 路径支持相对路径以及系统路径
 
 
-![image](https://github.com/user-attachments/assets/560d9966-7a4e-4ef3-b56e-c7a3e09d4e11)
+![image](https://github.com/user-attachments/assets/7ad51941-24db-4575-a98c-f83771ce7d5e)
 
 
 这个节点可以读取有效的CSV文件内的内容并覆盖掉原本引用的DataTable的内容，替换成我们想要读取的CSV内容
 
 
-![image](https://github.com/user-attachments/assets/2a116444-dd99-4233-ab11-261423ee11a1)
+![image](https://github.com/user-attachments/assets/b11a2276-f97a-4b51-9bd2-0f659b162d8b)
 
 
 这个节点可以让我们把有效的DataTable变量中的内容保存至指定路径
 
 
-![image](https://github.com/user-attachments/assets/1dcff846-9b17-4aef-997b-c3cf155d0aa2)
+![image](https://github.com/user-attachments/assets/00bf413d-30d6-42b0-845b-e68a16ca6b64)
+
+
+这个节点可以在指定路径下创建一个全新的CSV文件
+
+
+![image](https://github.com/user-attachments/assets/dc3c5085-16b6-4f0c-b45d-0ea709f6e0e8)
+
 
 这个节点可以获取指定路径下文件的内容
 
 
-![image](https://github.com/user-attachments/assets/d0e19516-a2ca-4d24-8b55-61c1ce2a5342)
+![image](https://github.com/user-attachments/assets/8b06510e-00d3-45b1-9964-9bbf3a4e671d)
 
 这个节点可以保存我们内容至指定的路径，如果没有该文件，那么会创建一个新文件至指定位置
 

@@ -4,7 +4,7 @@ Video Demo:https://www.youtube.com/watch?v=3S_CiW_GChQ
 
 This is a plug-in that can easily read and write or create files, and the current and tested compatible formats are CSV, txt, cfg 
 
-Any version from 5.0 to 5.5 is theoretically supported
+Any version from 5.1 to 5.5 is theoretically supported
 
 Paths Support relative paths and system path
 
@@ -44,7 +44,7 @@ This node can save our content to the specified path, if the file is not there, 
 视频演示：https://www.youtube.com/watch?v=3S_CiW_GChQ
 
 这是一款可以简单读写或创建文件的插件，目前以及测试兼容的格式为CSV、txt、cfg 
-理论上支持5.0至5.5的任意版本
+理论上支持5.1至5.5的任意版本
 路径支持相对路径以及系统路径
 
 
